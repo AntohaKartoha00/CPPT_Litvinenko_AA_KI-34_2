@@ -4,5 +4,5 @@
 /**
  * 
  */
-module KI304.Litvinenko.Lab3 {
+module KI304.Litvinenko.Lab3NEWW {
 }
